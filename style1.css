@@ -1,0 +1,26 @@
+body
+{
+    background:url(pic5.jpg) no-repeat;
+    background-size:cover;
+    
+
+  
+  color:white; /* White text */
+  padding: 8px 1px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 30% ; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+    border-bottom-width: thick;
+}
+table
+{
+width:100%;
+    border-bottom-color: aliceblue;
+    border-top-color: aliceblue;
+    border-left-color: aliceblue;
+    border-right-color: aliceblue;
+}
+.table th
+{
+color:green;
+}
